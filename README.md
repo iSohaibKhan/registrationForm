@@ -29,4 +29,4 @@
   </li>
 </ul>
 <h4>NOTE:</h4>
-<p>I've tested this plugin with all of the Page Builders and Classic Editor, it's working fine but in case if you find any bug or error using it then kndly inform me about it here.</p>
+<p>I've tested this plugin with all of the Page Builders and Classic Editor, it's working fine but in case if you find any bug or error using it then kindly inform me about it here.</p>
