@@ -1,5 +1,5 @@
 # User Registration Form
-<p>A custom shortcode plugin to create a user registration form for WordPress, it is compatible with all the page builders i-e, Elementor, Divi, WP Bakery, Gutenberg, Bold Builder, Beaver Builder, etc.</p>
+<p>A custom shortcode plugin to create a user registration form for WordPress, it is compatible with all the page builders i-e, Elementor, Divi Builder, WP Bakery, Gutenberg, Bold Builder, Beaver Builder, etc.</p>
 <h2>How to use?</h2>
 <ul>
   <li>Download the zip file from my repository named as <b>registration-form.zip</b>.</li>
@@ -25,5 +25,8 @@
     background-color: #F2F0FE;
     color: #0F172A !important; 
     transition: 0.3s;
-}</li>
+}
+  </li>
 </ul>
+<h4>NOTE:</h4>
+<p>I've tested this plugin with all of the Page Builders and Classic Editor, it's working fine but in case if you find any bug or error using it then kndly inform me about it here.</p>
