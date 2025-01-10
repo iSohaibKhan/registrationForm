@@ -6,7 +6,7 @@
   <li>Go to your WP Site's dashboard and head over to the plugins section.</li>
   <li>Click <b>"Add Plugin"</b> at the top of your screen > Click <b>"Upload Plugin"</b> and drag/select the zip plugin file.</b></li>
   <li>Click install plugin then activate the plugin.</li>
-  <li>Then go to Settings > General > Scroll down where you see <b>"Membership"</b> and <b>"New User Default Role"</b>, Check the tick box infront of Membership and select Customer as an option infront of New User Default Role.</li>
+  <li>Then go to Settings > General > Scroll down where you see <b>"Membership"</b> and <b>"New User Default Role"</b>, Check the tick box of Anyone can register infront of Membership and select Customer as an option infront of New User Default Role.</li>
   <li>Create a Signup/Registration page on your website and add this shortcode <b>"[epur_user_registration_form]"</b> then make the page live.</li>
   <li>To adjust the form's look and feel go to the plugin's assets folder via cPanel/WP File Manager/WHM and edit <b>style.css</b> file to ajdust these colors or the field's colors and boders according to your needs and liking.</li>
   <li>
